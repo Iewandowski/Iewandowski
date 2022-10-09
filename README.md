@@ -1,5 +1,6 @@
 # Carol Lewandowski:
 - Software Engineering Student
+- Backend | Oracle(PL/SQL) | .Net
 
 <h3 align="center" > Connect with me </h3>
 
