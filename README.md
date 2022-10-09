@@ -2,6 +2,16 @@
 - Software Engineering Student
 - Backend | Oracle(PL/SQL) | .Net
 
+I am a:
+⚪️ Man 
+⚪️ Woman
+🔘 Student 
+
+Looking for:
+⚪️ Women 
+⚪️ Men
+🔘 A car to hit me
+
 <h3 > Connect with me </h3>
 
 
