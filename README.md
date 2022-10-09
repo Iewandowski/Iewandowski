@@ -1,4 +1,24 @@
-<h1 align="center"> Carol Lewandowski </h1>
+# About ME 💬 :
+
+### - xxxxxxxxxxxxxxxxxxxxx.
+
+<img hight="4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9blob/master/assets/1936.gif">
+
+### - xx :
+- ✨ 
+- ✨ 
+- ✨ 
+
+### - xx : 
+- ✨ 
+- ✨ 
+- ✨ 
+- ✨ 
+
+</br>
+</br>
+</br>
+
 
 <br/>
 <h3 align="center" > Connect with me </h3>
