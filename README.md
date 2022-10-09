@@ -2,7 +2,7 @@
 
 ### - xxxxxxxxxxxxxxxxxxxxx.
 
-<img hight="4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9blob/master/assets/1936.gif">
+<img hight="xxx">
 
 ### - xx :
 - ✨ 
