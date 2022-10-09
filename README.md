@@ -1,3 +1,5 @@
+<h1 align="center"> Carol Lewandowski </h1>
+
 <br/>
 <h3 align="center" > Connect with me </h3>
 
