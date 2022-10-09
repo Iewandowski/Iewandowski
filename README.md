@@ -1,8 +1,8 @@
 # Carol Lewandowski:
 
-### - • Software Engineering student - PUCRS
-### - • IT certification
-### - • Developer Intern | Backend | Oracle(PL/SQL) | .Net - Portosys.
+### • Software Engineering student - PUCRS
+### • IT certification
+### • Developer Intern | Backend | Oracle(PL/SQL) | .Net - Portosys.
 
 ### - xx :
 - ✨ 
