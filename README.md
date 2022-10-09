@@ -2,7 +2,7 @@
 - Software Engineering Student
 - Backend | Oracle(PL/SQL) | .Net
 
-<h3 align="center" > Connect with me </h3>
+<h3 > Connect with me </h3>
 
 
  <div class="icons-social" style="margin-left: 10px;">
