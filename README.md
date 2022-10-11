@@ -20,6 +20,8 @@ Looking for:
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>   
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/carol_lewandowski">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+	 <a style="margin-left: 10px;" target="_blank" href="mailto:lewandowski.rod@gmail.com">
+			<img src="https://img.icons8.com/doodle/40/000000/gmail"></a>
       </div>
 
 <!---
