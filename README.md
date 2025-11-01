@@ -1,6 +1,6 @@
 # Carol Lewandowski:
 - Software Engineering Student
-- Backend | Oracle(PL/SQL) | .Net
+- Backend | Java Spring Boot
 
 <h3 > Connect with me </h3>
 
